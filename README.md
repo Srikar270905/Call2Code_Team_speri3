@@ -52,7 +52,7 @@ Hackaton/
 
 
 ---
-
+![image](https://github.com/user-attachments/assets/21f914cf-daca-4f83-b063-32b3b7657135)
 ## Local Setup
 
 ### 1. Clone the repository
@@ -96,4 +96,4 @@ Tailwind CSS team
 
 OpenAI for ChatGPT integration (optional)
 
-![image](https://github.com/user-attachments/assets/21f914cf-daca-4f83-b063-32b3b7657135)
+
