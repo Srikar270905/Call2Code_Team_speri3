@@ -53,6 +53,12 @@ Hackaton/
 
 ---
 ![image](https://github.com/user-attachments/assets/21f914cf-daca-4f83-b063-32b3b7657135)
+![WhatsApp Image 2025-07-05 at 04 08 57_f268c970](https://github.com/user-attachments/assets/a30bc82d-1f65-4880-81ff-d69b6eb13b61)
+![WhatsApp Image 2025-07-05 at 05 03 23_2521d50d](https://github.com/user-attachments/assets/a348d6e4-9441-488b-b150-7a690e2ed263)
+![WhatsApp Image 2025-07-05 at 04 11 12_893b8423](https://github.com/user-attachments/assets/fe29c907-f04e-49e6-8fa9-b778db815ec2)
+![WhatsApp Image 2025-07-05 at 04 11 13_98f94fe0](https://github.com/user-attachments/assets/83108adc-cf94-4499-8c6f-954f4381ff18)
+
+
 ## Local Setup
 
 ### 1. Clone the repository
